@@ -1,0 +1,12 @@
+body{
+    font-family: 'Tilt Neon', cursive;    
+    box-sizing: border-box; 
+}
+
+header{
+    text-align: center;
+}
+
+main p{
+    text-align: center;
+}
