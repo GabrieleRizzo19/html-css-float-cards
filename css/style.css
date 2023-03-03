@@ -54,3 +54,7 @@ main > p{
 .email{
     color: cyan;
 }
+
+.clearfix{
+    clear: both;
+}
